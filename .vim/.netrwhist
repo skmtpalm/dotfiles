@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/okpalm/sandbox/vimvimvim/vim-html'
+let g:netrw_dirhist_2='/Users/okpalm/dev/potepanec'
+let g:netrw_dirhist_3='/Users/okpalm/sandbox/vimvimvim/jissen-vim'
+let g:netrw_dirhist_4='/Users/okpalm/sandbox/vimvimvim/jissen-vim/hello.html'
